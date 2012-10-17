@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Trabalho T0 - Programação 2</title>
+        <title>Trabalho T0 - Programa&ccedil;&atilde;o 2</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta charset="UTF-8">
         <!-- Metatag for mobile views -->        
